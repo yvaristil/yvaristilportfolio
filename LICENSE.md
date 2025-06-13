@@ -1,5 +1,5 @@
 
-All original content on this website, including text and custom design, is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+Text and design of this website is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 Portions of the site generated using Bootstrap Studio or based on Bootstrap are governed by the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE).
 
