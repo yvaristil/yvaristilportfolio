@@ -180,6 +180,10 @@
   margin-bottom: 3rem!important;
 }
 
+.mb-10 {
+  margin-bottom: 10.5rem !important;
+}
+
 .ms-0 {
   margin-left: 0!important;
 }
@@ -224,8 +228,16 @@
   padding-top: 6rem !important;
 }
 
+.pt-10 {
+  padding-top: 10.5rem !important;
+}
+
 .pe-0 {
   padding-right: 0!important;
+}
+
+.pe-5 {
+  padding-right: 3rem!important;
 }
 
 .pe-7 {
@@ -236,8 +248,16 @@
   padding-bottom: 0!important;
 }
 
+.pb-3 {
+  padding-bottom: 1rem!important;
+}
+
 .pb-5 {
   padding-bottom: 3rem!important;
+}
+
+.ps-5 {
+  padding-left: 3rem!important;
 }
 
 .ps-7 {
@@ -275,9 +295,5 @@
     padding-top: 3rem!important;
     padding-bottom: 3rem!important;
   }
-}
-
-.swiper-vertical {
-  max-height: 100vh;
 }
 
